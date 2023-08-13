@@ -1,4 +1,4 @@
-**Hello!** I'm **Thomas**, a 24-year-old developer and computer science student from Austria. 
+👋 **Hello!** I'm Thomas, a 24-year-old developer and computer science student from Austria. 
 
 - **Mobile App Development:** I've been building full-stack mobile apps with Flutter for over 4 years, combining innovation with functionality.
 
