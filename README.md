@@ -1,8 +1,8 @@
-👋 **Hello!** I'm Thomas, a 24-year-old developer and computer science student from Austria. 
+👋 **Hello!** I'm Thomas, a 24-year-old developer and computer science student from Austria.
 
-- **Mobile App Development:** I've been building full-stack mobile apps with Flutter for over 4 years, combining innovation with functionality.
+📱 Flutter Development: Over the past 4 years, I've specialized in building maintainable full-stack mobile apps with Flutter, employing efficient architectural patterns like BLoC 
 
-- **Quant Trading:** Alongside app development, I have a strong interest in the field of quant trading. My approach is rooted in the use of statistical models, particularly time series analysis, for the development of robust trading bots and systems.
+💹 **Quant Trading:** Beyond mobile development, I've delved deep into quant trading. My methods mainly include statistical models, especially time series analysis, to build sophisticated trading bots and systems.
 
-If you'd like to connect, discuss collaboration, or simply ask questions, please feel free to reach out.
+🤝 If you're interested in connecting, discussing collaboration, or simply have questions, don't hesitate to get in touch. Looking forward to engaging with you!
 
